@@ -1,4 +1,4 @@
-# Typing Game
+# KeyStrokeRush
 ### Scenario:
  Create a typing game that can be played through the Cygwin terminal. Words will appear in a box and the player will need to type the words before they reach the bottom of the box or the game will end.
 ******
