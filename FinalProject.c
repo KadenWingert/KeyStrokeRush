@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <ncurses/ncurses.h>
+#include <ncurses.h>
 #include <unistd.h>
 #include <time.h>
 ////////////////////
