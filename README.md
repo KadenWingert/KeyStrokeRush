@@ -1,6 +1,6 @@
-# Project #1: Typing Game
+# Typing Game
 ### Scenario:
-You are to create a typing game that can be played through the Cygwin terminal. Words will appear in a box and the player will need to type the words before they reach the bottom of the box or the game will end.
+ Create a typing game that can be played through the Cygwin terminal. Words will appear in a box and the player will need to type the words before they reach the bottom of the box or the game will end.
 ******
 ### Code Requirements:
 
